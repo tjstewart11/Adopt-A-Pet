@@ -1,0 +1,20 @@
+body {
+    background-color: blanchedalmond;
+}
+p {
+    color:darkolivegreen;
+    font-family:monospace;
+
+}
+    h1, h2, li, a {
+        color: darkolivegreen;
+        font-family: sans-serif;
+    }
+.text{
+    width: 500px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: blanchedalmond;}
+#sketch-holder{
+    width: 500px;
+    margin: 0 auto;}
